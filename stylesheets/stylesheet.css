@@ -31,7 +31,6 @@ h6{
 
 /*Media Queries*/
 [class*="col-"] {
-    border: 1px solid red;
     float: left;
     padding: 15px;
     width: 100%;
