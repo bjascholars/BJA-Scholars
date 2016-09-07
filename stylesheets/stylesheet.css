@@ -4,6 +4,8 @@
   
 /*Responsive Typography*/
 body {
+	background-color: snow;
+	color: white;
   padding: 0;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -77,4 +79,19 @@ img {
 video {
     height: auto;
     width: 100%;
+}
+
+/*Misc.*/
+a{
+	color: orange;
+}
+.clear{
+	clear:left;
+}
+header{
+	background-color: blue;
+}
+section{
+	border: 5px solid snow;
+	background-color: blue;
 }
